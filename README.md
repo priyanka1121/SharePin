@@ -5,6 +5,7 @@ Sharepin is a social media app built with ReactJS and Sanity CMS. It offers a fa
 ## Tech Stack
 
 - ReactJS
+- Tailwind CSS
 - Firebase
 - Sanity CMS
 
